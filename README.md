@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hi, I am <a href="[https://azanedov.github.io/CV_VanessaAzanedo/]">Vanessa</a> 👋</h1>
+</div>
+<img src="https://imgur.com/DP0A20t.png">
 
-<!--
-**azanedov/azanedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+- 👩🏽‍💻 I am an anthropologist with a knack for data analysis
+- 📊 Currently working as a market research analyst
+- 🔭 Also researching about labor and technology, and crime
+- 🤖 Learning Python and R
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/azanedov">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azanedov&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azanedov&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
